@@ -14,7 +14,7 @@ SwiftUI 雖然提供了基本的提示元件，但如果要支援
 
 ---
 
-## ✨ Demo  
+## Demo  
 （你未來可放 GIF 或影片）
 
 ```
@@ -33,7 +33,7 @@ SwiftUI 雖然提供了基本的提示元件，但如果要支援
 
 ---
 
-## 🔥 Features
+## Features
 
 ### ✔ Queue-based Notification Management（排隊顯示）
 一次只會顯示一則通知，其餘自動排隊。  
@@ -64,7 +64,7 @@ SwiftUI 雖然提供了基本的提示元件，但如果要支援
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. 啟用 Notification Host
 
@@ -110,7 +110,7 @@ CustomNotificationCenter.show(
 
 ---
 
-## 🧩 Architecture Overview
+## Architecture Overview
 
 ```
 RootView
@@ -132,7 +132,7 @@ RootView
 
 ---
 
-## 🧠 Engineering Philosophy  
+## Engineering Philosophy  
 
 這個作品背後真正的重點不是動畫本身，而是：
 
@@ -145,7 +145,7 @@ RootView
 
 ---
 
-## 🔧 Future Extensions
+## Future Extensions
 
 這套架構已為以下功能預留 extension hooks：
 
@@ -159,7 +159,7 @@ RootView
 
 ---
 
-## 📄 License  
+## License  
 MIT License
 
 歡迎自由使用、修改、擴充。
