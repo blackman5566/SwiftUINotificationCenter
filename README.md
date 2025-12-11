@@ -21,7 +21,7 @@ It is a system designed to be **predictable, testable, and scalable**.
 
 ---
 
-## ✨ Demo  
+## Demo  
 (You may replace this with your own GIF)
 
 ```
@@ -40,7 +40,7 @@ It is a system designed to be **predictable, testable, and scalable**.
 
 ---
 
-## 🔥 Features
+## Features
 
 ### ✔ Queue-based Notification Management
 Only one notification is shown at a time; others wait in a queue.  
@@ -72,7 +72,7 @@ Easy to maintain and extend.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Enable Notification Host
 
@@ -118,7 +118,7 @@ CustomNotificationCenter.show(
 
 ---
 
-## 🧩 Architecture Overview
+## Architecture Overview
 
 ```
 RootView
@@ -140,7 +140,7 @@ RootView
 
 ---
 
-## 🧠 Engineering Philosophy  
+## Engineering Philosophy  
 
 The real focus of this project is not the animation —  
 it's the **architecture** behind it.
