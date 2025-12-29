@@ -22,7 +22,6 @@ It is a system designed to be **predictable, testable, and scalable**.
 ---
 
 ## Demo  
-(You may replace this with your own GIF)
 
 ```
 [ Notification dropping down ]
